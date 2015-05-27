@@ -1,7 +1,0 @@
-auto: false
-destination: ../../public/blog
-markdown: rdiscount
-permalink: /:year/:month/:day/:title
-paginate: 8
-pygments: true
-lsi: false
