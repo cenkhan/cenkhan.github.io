@@ -8,3 +8,6 @@ lsi: false
 name: 'cenkhan'
 author: 'cenkhan'
 author_image: "/assets/images/author.jpg"
+email: a-mail@mail.mail
+logo: "/assets/images/logo.jpg"
+cover: "/assets/images/cover.jpg"
