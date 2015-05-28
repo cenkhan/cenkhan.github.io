@@ -4,3 +4,7 @@ markdown: rdiscount
 permalink: pretty
 pygments: true
 lsi: false
+
+name: 'cenkhan'
+author: 'cenkhan'
+author_image: "/assets/images/author.jpg"
