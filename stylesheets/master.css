@@ -686,7 +686,7 @@ blockquote {
     }
   #about .info {
     color: #bbb;
-	margin: 0px;
+	/*margin: 0px;*/
     /*width: 100%;*/
   }
     #about .info .label {
@@ -697,7 +697,10 @@ blockquote {
       #about .info .label a {
         color: #bbb;
       }
-
+         #about .info .label dd {
+      	margin-left: 68px;
+    		}
+      
 /* @end */
 
 /* @group .about-me */
