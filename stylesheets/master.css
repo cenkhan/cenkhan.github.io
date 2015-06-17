@@ -726,6 +726,8 @@ blockquote {
     dl.labels dt {
       float: left;
       text-align: right;
+      padding-right: 5px;
+      padding-bottom: 10px;
       width: 60px;
     }
       dl.labels dt a {
