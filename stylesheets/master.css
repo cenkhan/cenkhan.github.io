@@ -726,7 +726,7 @@ blockquote {
     dl.labels dt {
       float: left;
       text-align: right;
-      width: 60px;
+      /*width: 60px;*/
     }
       dl.labels dt a {
         color: #bbb;
