@@ -687,7 +687,7 @@ blockquote {
   #about .info {
     color: #bbb;
     margin: 0px auto;
-    /*width: 100%;*/
+    width: 100%;
   }
     #about .info .label {
       text-align: right;
