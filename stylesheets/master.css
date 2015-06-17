@@ -686,7 +686,7 @@ blockquote {
     }
   #about .info {
     color: #bbb;
-    float: left;
+    margin-left: 68px;
 	/*margin: 0px auto;*/
     /*width: 100%;*/
   }
