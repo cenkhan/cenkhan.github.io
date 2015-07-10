@@ -474,13 +474,14 @@ blockquote {
 /* @group .post-* */
 
 .post-world {
-  margin: 100px 20px 0px 50px;
+  margin: 0px 20px 0px 50px;
   float: left;
   width: 640px;
 }
 
 .post-item {
   margin-bottom: 100px;
+  top: 200px;
 }
 
 /* @group .post-title */
