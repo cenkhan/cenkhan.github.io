@@ -31,15 +31,12 @@ title: cenkhan / about
 	</div>
 	
 <div class="post-item">
-	<div class="post-meta">
-	    <p class="date">{{ page.date | date: "<i>%d</i><b>%b</b>" }}</p>
-	</div>
-
 	<h1 class="post-title">
 		<a href="/blog{{ page.url }}/">{{ page.title }}</a>
 		<div class="post-title-sub">
-			by Jim Myhrberg – tags:
+			by cenkhan – tags:
 			{% for tag in page.categories %} <a href="/blog/tag/{{tag}}/" rel="tag"><i class="hash">#</i>{{tag}}</a>{% if forloop.last != true %},{% endif %}{% endfor %}
 		</div>
 	</h1>
 	</div>
+	
