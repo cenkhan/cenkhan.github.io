@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: My Ruby Development Environment
 categories: [banks, stresstest]
 ---
