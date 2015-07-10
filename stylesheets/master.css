@@ -481,8 +481,8 @@ blockquote {
 
 .post-item {
   margin-bottom: 100px;
-  margin-top: 100px;
-  margin-left: 100px;
+  margin-top: 200px;
+  margin-left: 10px;
 }
 
 /* @group .post-title */
