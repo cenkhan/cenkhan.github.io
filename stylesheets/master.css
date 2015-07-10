@@ -474,8 +474,7 @@ blockquote {
 /* @group .post-* */
 
 .post-world {
-  margin-top: -300px;
-  top: 50%;
+  margin: 10px 20px 10px 50px;
   float: left;
   width: 640px;
 }
