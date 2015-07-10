@@ -14,24 +14,17 @@
 
 </div>
 
-{% include post-div.html %}
+<div class="post-item">
+	<h1 class="post-title">
+		<a href="/blog{{ page.url }}/">{{ page.title }}</a>
+		<div class="post-title-sub">
+			by cenkhan – tags:
+			{% for tag in page.categories %} <a href="/blog/tag/{{tag}}/" rel="tag"><i class="hash">#</i>{{tag}}</a>{% if forloop.last != true %},{% endif %}{% endfor %}
+		</div>
+	</h1>
 
-<div id="universe">
-	
-	<div id="header">
-		<div id="title">
-			<!-- <a href="/blog/">blog</a> -->
-		</div>
-		<div id="navigation">
-			<a href="/">about</a>
-			<a href="/blog/" class="selected">blog</a>
-			<a href="http://lifefeed.jimeh.me/">life feed</a>
-		</div>
-		<div class="clear"></div>
-	</div>
-	
-	<div class="post-world">
-		{{ content }}
+	<div class="post-content">
+		{{ page.content }}
 	</div>
 	
 </div>
