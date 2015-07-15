@@ -28,25 +28,5 @@
 		<div class="clear"></div>
 	</div>
 	
-	<div class="post-world">
-		<div class="post-item">
-			<div class="post-meta">
-			    <p class="date">{{ page.date | date: "<i>%d</i><b>%b</b>" }}</p>
-				</div>
-
-			<h1 class="post-title">
-				{{ page.title }}
-				<div class="post-title-sub">
-					by Jim Myhrberg – tags:
-					{% for tag in page.categories %} <a href="/blog/tag/{{tag}}/" rel="tag"><i class="hash">#</i>{{tag}}</a>{% if forloop.last != true %},{% endif %}{% endfor %}
-					</div>
-			</h1>
-
-			<div class="post-content">
-				{{ content }}
-				</div>			
-				</div>
-				</div>	
-</div>
 
 {% include _foot.html %}
