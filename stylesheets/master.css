@@ -662,7 +662,7 @@ blockquote {
 
 /* @group #research */
 #research {
-  width: 908px;
+  width: 681px;
   height: 170px;
   position: absolute;
   top: 75%;
@@ -681,7 +681,7 @@ blockquote {
   height: 170px;
   position: absolute;
   top: 35%;
-  left: 60%;
+  left: 40%;
   margin-top: -150px;
   margin-left: -228px;
 }
