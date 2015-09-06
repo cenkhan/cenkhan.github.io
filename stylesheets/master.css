@@ -669,7 +669,7 @@ blockquote {
   width: 681px;
   height: 170px;
   position: absolute;
-  top: 75%;
+  top: 40%;
   left: 35%;
   margin-top: -150px;
   margin-left: -228px;
@@ -699,7 +699,7 @@ blockquote {
   height: 170px;
   position: absolute;
   top: 40%;
-  left: 50%;
+  left: 60%;
   margin-top: -150px;
   margin-left: -228px;
 }
