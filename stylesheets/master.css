@@ -656,7 +656,7 @@ blockquote {
   background: url("../images/404-dead-link.png") center center no-repeat;
   position: absolute;
   top: 50%;
-  left: 60%;
+  left: 50%;
   margin: -150px 0px 0px -250px;
   height: 300px;
   width: 500px;
@@ -699,7 +699,7 @@ blockquote {
   height: 170px;
   position: absolute;
   top: 50%;
-  left: 50%;
+  left: 55%;
   margin-top: -150px;
   margin-left: -228px;
 }
