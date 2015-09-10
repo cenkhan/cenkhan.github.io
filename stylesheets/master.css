@@ -804,7 +804,7 @@ blockquote {
 	height: 20px;
 	width: 100%;
 	clear:both; 
-	border-top: 1px solid gray;
+	border-top: 1px #939393;
 	position: absolute; 
     left: 0px;
     bottom: 0px;
