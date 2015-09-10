@@ -816,7 +816,7 @@ blockquote {
     color: #f4f4f4;
   }
     #footer a:hover {
-      color: #f4f4f4;
+      color: #bbb;
       text-decoration: none;
       /*border: none;*/
     }
