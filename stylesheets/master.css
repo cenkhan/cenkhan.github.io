@@ -790,5 +790,5 @@ blockquote {
 /* @end */
 
 #footer {
-	clear:both; margin-top: 20px; border-top:1px solid black; padding: 20px 0px; font-size:80%; text-align:center;
+	clear:both; margin-top: 20px; padding: 20px 0px; font-size:80%; text-align:center;
 }
