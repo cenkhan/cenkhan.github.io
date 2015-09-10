@@ -811,12 +811,3 @@ blockquote {
 	font-size:80%; 
 	text-align:center;
 }
-
-  #footer a {
-    color: #f4f4f4;
-  }
-    #footer a:hover {
-      color: #bbb;
-      text-decoration: none;
-      /*border: none;*/
-    }
