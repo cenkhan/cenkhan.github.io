@@ -682,8 +682,8 @@ blockquote {
   position: absolute;
   top: 30%;
   left: 35%;
-  margin-top: -150px;
-  margin-left: -228px;
+/*  margin-top: -150px;
+  margin-left: -228px;*/
   text-align: justify;
 }
 
