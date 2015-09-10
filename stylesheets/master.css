@@ -328,6 +328,7 @@ span.fancybox {
   position:relative;
 }
 
+
 /* @group #navigation */
 
 #navigation {
@@ -800,9 +801,9 @@ blockquote {
 /* @end */
 
 #footer {
-	height: 40px;
+	height: 100px;
 	width: 100%;
-    background-color:#222;
+    background-color:#303030;
 	clear:both; 
 	position: absolute; 
     left: 0px;
@@ -810,3 +811,12 @@ blockquote {
 	font-size:80%; 
 	text-align:center;
 }
+
+  #footer a {
+    color: #f4f4f4;
+  }
+    #footer a:hover {
+      color: #f4f4f4;
+      text-decoration: none;
+      /*border: none;*/
+    }
