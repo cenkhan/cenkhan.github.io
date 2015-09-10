@@ -805,7 +805,7 @@ blockquote {
 	width: 100%;
 	clear:both; 
 	border-top: 1px solid #d5d5d5;
-	background-color:#ffffff; 
+	background-color:rgba(236, 221, 215, 0.95); 
 	position: fixed; 
     left: 0px;
     bottom: 0px;
