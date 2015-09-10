@@ -324,7 +324,7 @@ span.fancybox {
     }
 
 #wrapper {
-  min-height:125%;
+  min-height:100%;
   position:relative;
 }
 
@@ -804,7 +804,7 @@ blockquote {
 	height: 20px;
 	width: 100%;
 	clear:both; 
-	border-top: 2px solid black;
+	border-top: 1px solid black;
 	position: absolute; 
     left: 0px;
     bottom: 0px;
