@@ -810,4 +810,5 @@ blockquote {
     bottom: 0px;
 	font-size:80%; 
 	text-align:center;
+	min-height:500px;
 }
