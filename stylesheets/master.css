@@ -801,21 +801,12 @@ blockquote {
 /* @end */
 
 #footer {
-	height: 100px;
+	height: 20px;
 	width: 100%;
-	clear:both; 
+	border-top: 2px;
 	position: absolute; 
     left: 0px;
     bottom: 0px;
 	font-size:80%; 
 	text-align:center;
 }
-
-  #footer a {
-    color: #f4f4f4;
-  }
-    #footer a:hover {
-      color: #f4f4f4;
-      text-decoration: none;
-      /*border: none;*/
-    }
