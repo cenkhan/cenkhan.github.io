@@ -324,7 +324,7 @@ span.fancybox {
     }
 
 #wrapper {
-  min-height:150%;
+  min-height:110%;
   position:relative;
 }
 
@@ -803,7 +803,6 @@ blockquote {
 #footer {
 	height: 100px;
 	width: 100%;
-    background-color:#303030;
 	clear:both; 
 	position: absolute; 
     left: 0px;
