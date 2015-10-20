@@ -782,6 +782,34 @@ blockquote {
 
 /* @end */
 
+/* @group #links */
+
+#links {
+  width: 454px;
+  height: 170px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -150px;
+  margin-left: -228px;
+}
+
+#links .info {
+    color: #bbb;
+	/*margin: 0px auto;*/
+    /*width: 100%;*/
+  }
+    #links .info .label {
+      text-align: right;
+      padding-right: 5px;
+      padding-bottom: 0px;
+    }
+      #links .info .label a {
+        color: #bbb;
+      }
+
+/* @end */
+
 /* @group .recent-articles */
 
 .recent-articles {
