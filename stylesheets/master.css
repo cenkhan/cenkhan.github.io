@@ -794,6 +794,22 @@ blockquote {
   margin-left: -200px;
 }
 
+  #links .logo {
+    position: absolute;
+/*    top: -23px;
+    left: -95px;*/
+    margin: 0px 10px 10px 0px;
+    cursor: default;
+    -webkit-transform: rotate(-2deg);
+    -moz-transform: rotate(-2deg);
+  }
+    #links .logo:hover {
+
+    }
+    #links .logo img {
+	    
+	}
+	    
 #links .info {
     color: #bbb;
 	/*margin: 0px auto;*/
