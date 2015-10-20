@@ -790,8 +790,8 @@ blockquote {
   position: absolute;
   top: 50%;
   left: 50%;
-  margin-top: -150px;
-  margin-left: -228px;
+/*  margin-top: -150px;
+  margin-left: -228px;*/
 }
 
 #links .info {
