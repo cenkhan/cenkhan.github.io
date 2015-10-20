@@ -797,7 +797,7 @@ blockquote {
   #links .logo {
     position: absolute;
 /*    top: -23px;*/
-    left: -10px;
+    left: -20px;
     margin: 0px 10px 10px 0px;
     cursor: default;
   }
