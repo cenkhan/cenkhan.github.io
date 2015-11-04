@@ -709,7 +709,7 @@ blockquote {
   width: 454px;
   height: 670px;
   position: absolute;
-  top: 50%;
+  top: 70%;
   left: 50%;
   margin-top: -150px;
   margin-left: -228px;
@@ -790,7 +790,7 @@ blockquote {
   position: absolute;
   top: 5%;
   left: 50%;
-  margin-top: 70px;
+  margin-top: 50px;
   margin-left: -175px;
 }
 
@@ -843,7 +843,7 @@ blockquote {
 /* @end */
 
 #footer {
-	height: 30px;
+	height: 25px;
 	width: 100%;
 	clear:both; 
 	border-top: 1px solid #d5d5d5;
