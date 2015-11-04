@@ -790,13 +790,13 @@ blockquote {
   position: absolute;
   top: 5%;
   left: 50%;
- /* margin-top: -150px;*/
+  margin-top: -150px;
   margin-left: -175px;
 }
 
   #links .logo {
-/*    position: absolute;*/
-    top: -23px;
+/*    position: absolute;
+    top: -23px;*/
     left: -20px;
     margin: 0px 10px 10px 0px;
     cursor: default;
