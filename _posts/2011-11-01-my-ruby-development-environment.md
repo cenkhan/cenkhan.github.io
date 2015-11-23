@@ -1,8 +1,7 @@
 ---
 layout: post
-title: My Ruby Development Environment
-categories: [banks, stresstest]
+title: Project 1
+categories: [cat, cat2]
 ---
 
-Setting up your development environment is always a tedious task. My own
-environment has changed many times over the years.
+description here.
