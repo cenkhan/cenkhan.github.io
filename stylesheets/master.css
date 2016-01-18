@@ -850,7 +850,8 @@ blockquote {
 	border-top: 1px solid #d5d5d5;
 	background-color:rgba(241, 240, 238, 1); 
 	position: fixed; 
-    left: 0px;
+    top: 5px;
+    left: 10px;
     bottom: 0px;
 	font-size:70%; 
 	text-align: justify; 
