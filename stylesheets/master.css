@@ -854,5 +854,5 @@ blockquote {
     bottom: 0px;
 	font-size:75%; 
 	text-align: justify; 
-    color: #bbb;	
+    color: rgba(169, 169, 169, 1);	
 }
