@@ -714,7 +714,7 @@ blockquote {
   height: 670px;
   position: absolute;
   top: 50%;
-  left: 15%;
+  /*left: 25%;*/
   margin-top: -150px;
   /*margin-left: -280px;*/
   text-align: justify;  
