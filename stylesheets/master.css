@@ -716,7 +716,8 @@ blockquote {
   top: 50%;
   /*left: 25%;*/
   margin-top: -150px;
-  margin-left: -280px;
+  margin-left: 200px;
+  /*margin-left: -280px;*/
   text-align: justify;  
 }
   #about .avatar {
