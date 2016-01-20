@@ -716,13 +716,13 @@ blockquote {
   top: 50%;
   /*left: 25%;*/
   margin-top: -150px;
-  /*margin-left: -280px;*/
+  margin-left: -280px;
   text-align: justify;  
 }
   #about .avatar {
     position: absolute;
     top: -40px;
-    /*left: -140px;*/
+    left: -140px;
     margin: 0px 10px 10px 0px;
     cursor: default;
     -webkit-transform: rotate(-2deg);
