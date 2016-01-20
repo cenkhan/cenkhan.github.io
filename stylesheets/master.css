@@ -348,6 +348,7 @@ span.fancybox {
     #navigation a:hover {
       border: none;
       text-decoration: none;
+      color: #F8F8F8;
       border-bottom: 2px solid #F8F8F8;
     }
     #navigation a.selected {
