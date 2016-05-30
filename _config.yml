@@ -1,7 +1,7 @@
 auto: false
 destination: ../../public
 permalink: pretty
-pygments: true
+highlighter: rouge
 lsi: false
 
 name: 'cenkhan'
