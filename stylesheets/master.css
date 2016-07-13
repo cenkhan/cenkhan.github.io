@@ -716,7 +716,7 @@ blockquote {
   position: absolute;
   top: 50%;
   left: 50%;
-  margin-top: -125px;
+  margin-top: -150px;
   /*margin-left: 200px;*/
   margin-left: -280px;
   text-align: justify;  
@@ -796,7 +796,7 @@ blockquote {
   height: 170px;
   position: absolute;
   top: 5%;
-  left: 50%;
+  left: 80%;
   margin-top: 50px;
   margin-left: -175px;
 }
