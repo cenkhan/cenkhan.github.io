@@ -303,9 +303,7 @@ span.fancybox {
 #header {
   position: absolute; 
   height: 30px;
-  min-width: 100%;
-  margin: 0;
-  margin-left: 0;
+  /*min-width: 100%;*/
   background-color:#222;
   -webkit-box-shadow: 0px 3px 5px rgba(100, 100, 100, 0.49);
   -moz-box-shadow:    0px 3px 5px rgba(100, 100, 100, 0.49);
@@ -713,7 +711,7 @@ blockquote {
 /* @group #about */
 
 #about {
-  width: 320px;
+  width: 720px;
   height: 670px;
   position: absolute;
   top: 50%;
