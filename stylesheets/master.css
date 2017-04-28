@@ -711,7 +711,7 @@ blockquote {
 /* @group #about */
 
 #about {
-  width: 720px;
+  width: 670px;
   height: 670px;
   position: absolute;
   top: 50%;
@@ -851,7 +851,7 @@ blockquote {
 
 #footer {
 	height: 25px;
-	/*width: 100%;*/
+	width: 100%;
 	clear:both; 
 	border-top: 1px solid #d5d5d5;
 	background-color:rgba(241, 240, 238, 1); 
