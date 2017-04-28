@@ -329,8 +329,8 @@ span.fancybox {
 
 #wrapper {
   min-height:100%;
-  width: 95%;
-  /*min-width: 900px;*/
+  /*width: 95%;*/
+  min-width: 900px;
   /*position:relative;*/
 }
 
