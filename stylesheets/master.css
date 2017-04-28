@@ -301,7 +301,7 @@ span.fancybox {
 }
 
 #header {
-  position: absolute; 
+  /*position: absolute; */
   height: 30px;
   /*min-width: 100%;*/
   background-color:#222;
