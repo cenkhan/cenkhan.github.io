@@ -303,7 +303,7 @@ span.fancybox {
 #header {
   position: absolute; 
   height: 30px;
-  width: 100%;
+  min-width: 100%;
   margin: 0;
   margin-left: 0;
   background-color:#222;
@@ -329,7 +329,7 @@ span.fancybox {
 
 #wrapper {
   min-height:100%;
-  /*width: 95%;*/
+  width: 95%;
   /*min-width: 900px;*/
   /*position:relative;*/
 }
