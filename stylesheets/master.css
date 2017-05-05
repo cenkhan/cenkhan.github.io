@@ -856,8 +856,9 @@ blockquote {
 	border-top: 1px solid #d5d5d5;
 	/*background-color:rgba(241, 240, 238, 1); */
 	position: fixed; 
-    left: 100px;
-    bottom: 100px;
+    left: 150px;
+    right: 150px;
+    bottom: 10px;
 	font-size:75%; 
 	text-align: justify; 
     color: rgba(169, 169, 169, 1);	
