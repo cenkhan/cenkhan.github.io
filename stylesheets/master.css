@@ -853,7 +853,6 @@ blockquote {
 #footer {
 	height: 25px;
 	width: 100%;
-	clear:both; 
 	border-top: 1px solid #d5d5d5;
 	background-color:#FFFFFF;
 	position: fixed; 
