@@ -325,7 +325,6 @@ span.fancybox {
 #wrapper {
   min-height:100%;
   /*width: 100%;*/
-  min-width: 900px;
   /*position:relative;*/
 }
 
@@ -350,7 +349,7 @@ span.fancybox {
     }
     #navigation a.selected {
       color: #1193F6;
-      border-bottom: 2px solid #F0F5FE;
+      border-bottom: 1px solid #F0F5FE;
     }
 
 /* @end */
