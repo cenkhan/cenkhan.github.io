@@ -77,7 +77,7 @@ body {
   font: 15px/1.5 'Colaborate-ThinRegular', 'HelveticaNeue-Light', 'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', FreeSans, sans-serif;
   margin:0;
   padding:0;
-  height:100%;	
+  height:100%;
 }
 
 a {
@@ -301,13 +301,10 @@ span.fancybox {
 }
 
 #header {
-  position: absolute; 
+  /*position: absolute; */
   height: 30px;
-  min-width: 100%;
+  width: 100%;
   background-color:#222;
-  -webkit-box-shadow: 0px 3px 5px rgba(100, 100, 100, 0.49);
-  -moz-box-shadow:    0px 3px 5px rgba(100, 100, 100, 0.49);
-  box-shadow:         0px 3px 5px rgba(100, 100, 100, 0.49);
 }
 
 #title {
@@ -327,8 +324,7 @@ span.fancybox {
 
 #wrapper {
   min-height:100%;
-  /*width: 95%;*/
-  /*min-width: 900px;*/
+  /*width: 100%;*/
   /*position:relative;*/
 }
 
@@ -714,17 +710,17 @@ blockquote {
   width: 720px;
   height: 670px;
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 40%;
+  left: 20%;
   margin-top: -150px;
   /*margin-left: 200px;*/
-  margin-left: -280px;
-  text-align: justify;  
+  margin-left: 0;
+  text-align: justify;
 }
   #about .avatar {
     position: absolute;
     top: -40px;
-    left: -140px;
+    left: -160px;
     margin: 0px 10px 10px 0px;
     cursor: default;
     -webkit-transform: rotate(-2deg);
@@ -812,9 +808,9 @@ blockquote {
 
     }
     #links .logo img {
-	    
+
 	}
-	    
+
 #links .info {
     color: #bbb;
 	/*margin: 0px auto;*/
@@ -852,13 +848,13 @@ blockquote {
 #footer {
 	height: 25px;
 	width: 100%;
-	clear:both; 
+	clear:both;
 	border-top: 1px solid #d5d5d5;
-	background-color:rgba(241, 240, 238, 1); 
-	position: fixed; 
-    left: 0px;
+	background-color:#FFFFFF;
+	position: fixed;
+    left: 75px;
     bottom: 0px;
-	font-size:75%; 
-	text-align: justify; 
-    color: rgba(169, 169, 169, 1);	
+	font-size:75%;
+	text-align: justify;
+    color: rgba(169, 169, 169, 1);
 }
