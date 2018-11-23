@@ -719,7 +719,7 @@ blockquote {
 }
   #about .avatar {
     position: absolute;
-    top: -40px;
+    top: -60px;
     left: -200px;
     margin: 0px 10px 10px 0px;
     cursor: default;
