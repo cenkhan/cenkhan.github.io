@@ -8,13 +8,22 @@
 	<title>{{ page.title }}</title>
 	<meta name="author" content="cenkhan" />
 	<link href="http://feeds.feedburner.com/cenkhan" rel="alternate" title="cenkhan / about" type="application/atom+xml" />
-	
+
 	<link rel="stylesheet" href="/stylesheets/master.css?{{ site.time | date: "%Y%m%d%H%M%S"}}" type="text/css" media="screen" title="no title" charset="utf-8" />
 	<link rel="stylesheet" href="/resources/fancybox/fancybox.css" type="text/css" media="screen" title="no title" charset="utf-8">
-	
+
 	<script src="/javascripts/libs.js?{{ site.time | date: "%Y%m%d%H%M%S"}}" type="text/javascript" charset="utf-8"></script>
 	<script src="/javascripts/main.js?{{ site.time | date: "%Y%m%d%H%M%S"}}" type="text/javascript" charset="utf-8"></script>
-	
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#00aba9">
+<meta name="theme-color" content="#ffffff">
+
+
 </head>
 
 <body>
@@ -30,7 +39,7 @@
 		if (document.location.host.indexOf("cenkhan") == -1) {
 			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);	
+			(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
 		};
 	})();
 
