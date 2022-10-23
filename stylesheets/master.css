@@ -721,8 +721,8 @@ blockquote {
 }
   #about .avatar {
     position: absolute;
-    top: -80px;
-    left: -200px;
+    top: -100px;
+    left: -250px;
     margin: 0px 10px 10px 0px;
     cursor: default;
     -webkit-transform: rotate(-2deg);
